@@ -1,0 +1,3495 @@
+{
+  "data": [],
+  "directed": false,
+  "multigraph": false,
+  "elements": {
+    "nodes": [
+      {
+        "data": {
+          "group": "TF",
+          "label": "Mef2a",
+          "color": "#800080ff",
+          "size": 30,
+          "shape": "Ellipse",
+          "font_size": 20,
+          "font_color": "#000000ff",
+          "color_rgb": "#800080",
+          "color_alpha": 255.0,
+          "font_color_rgb": "#000000",
+          "font_color_alpha": 255,
+          "title": "Mef2a",
+          "font": {
+            "size": 20.0,
+            "color": "#000000ff"
+          },
+          "x": -62.60750486210413,
+          "y": -77.16283976651101,
+          "fixed": {
+            "fixed.x": true,
+            "fixed.y": true
+          },
+          "id": "Mef2a",
+          "name": "Mef2a"
+        },
+        "position": {
+          "x": -50,
+          "y": -61
+        }
+      },
+      {
+        "data": {
+          "group": "Region",
+          "label": "chr11:80177018-80177960",
+          "color": "#2f6b8e58",
+          "size": 10,
+          "shape": "Diamond",
+          "font_size": 0,
+          "font_color": "#000000ff",
+          "color_rgb": "#2f6b8e",
+          "color_alpha": 214.89082969432314,
+          "font_color_rgb": "#000000",
+          "font_color_alpha": 255,
+          "title": "chr11:80177018-80177960",
+          "font": {
+            "size": 0.0,
+            "color": "#000000ff"
+          },
+          "x": -134.664026002448,
+          "y": -31.68423029400521,
+          "fixed": {
+            "fixed.x": true,
+            "fixed.y": true
+          },
+          "id": "chr11:80177018-80177960",
+          "name": "chr11:80177018-80177960"
+        },
+        "position": {
+          "x": -107,
+          "y": -25
+        }
+      },
+      {
+        "data": {
+          "group": "Region",
+          "label": "chr1:165666876-165667912",
+          "color": "#472e7c22",
+          "size": 10,
+          "shape": "Diamond",
+          "font_size": 0,
+          "font_color": "#000000ff",
+          "color_rgb": "#472e7c",
+          "color_alpha": 201.92139737991266,
+          "font_color_rgb": "#000000",
+          "font_color_alpha": 255,
+          "title": "chr1:165666876-165667912",
+          "font": {
+            "size": 0.0,
+            "color": "#000000ff"
+          },
+          "x": -146.71509336583185,
+          "y": -49.38355170406518,
+          "fixed": {
+            "fixed.x": true,
+            "fixed.y": true
+          },
+          "id": "chr1:165666876-165667912",
+          "name": "chr1:165666876-165667912"
+        },
+        "position": {
+          "x": -117,
+          "y": -39
+        }
+      },
+      {
+        "data": {
+          "group": "Region",
+          "label": "chr3:103129445-103131638",
+          "color": "#29af7fa1",
+          "size": 10,
+          "shape": "Diamond",
+          "font_size": 0,
+          "font_color": "#000000ff",
+          "color_rgb": "#29af7f",
+          "color_alpha": 232.4235807860262,
+          "font_color_rgb": "#000000",
+          "font_color_alpha": 255,
+          "title": "chr3:103129445-103131638",
+          "font": {
+            "size": 0.0,
+            "color": "#000000ff"
+          },
+          "x": -127.43814834671083,
+          "y": -61.203152167502054,
+          "fixed": {
+            "fixed.x": true,
+            "fixed.y": true
+          },
+          "id": "chr3:103129445-103131638",
+          "name": "chr3:103129445-103131638"
+        },
+        "position": {
+          "x": -101,
+          "y": -48
+        }
+      },
+      {
+        "data": {
+          "group": "Region",
+          "label": "chr2:148889524-148890793",
+          "color": "#4821731a",
+          "size": 10,
+          "shape": "Diamond",
+          "font_size": 0,
+          "font_color": "#000000ff",
+          "color_rgb": "#482173",
+          "color_alpha": 200.0,
+          "font_color_rgb": "#000000",
+          "font_color_alpha": 255,
+          "title": "chr2:148889524-148890793",
+          "font": {
+            "size": 0.0,
+            "color": "#000000ff"
+          },
+          "x": -14.678837044979241,
+          "y": -11.8704015611395,
+          "fixed": {
+            "fixed.x": true,
+            "fixed.y": true
+          },
+          "id": "chr2:148889524-148890793",
+          "name": "chr2:148889524-148890793"
+        },
+        "position": {
+          "x": -11,
+          "y": -9
+        }
+      },
+      {
+        "data": {
+          "group": "Region",
+          "label": "chr11:95838546-95839225",
+          "color": "#1f968b86",
+          "size": 10,
+          "shape": "Diamond",
+          "font_size": 0,
+          "font_color": "#000000ff",
+          "color_rgb": "#1f968b",
+          "color_alpha": 225.93886462882097,
+          "font_color_rgb": "#000000",
+          "font_color_alpha": 255,
+          "title": "chr11:95838546-95839225",
+          "font": {
+            "size": 0.0,
+            "color": "#000000ff"
+          },
+          "x": -121.2961753329376,
+          "y": -133.2489745820075,
+          "fixed": {
+            "fixed.x": true,
+            "fixed.y": true
+          },
+          "id": "chr11:95838546-95839225",
+          "name": "chr11:95838546-95839225"
+        },
+        "position": {
+          "x": -97,
+          "y": -106
+        }
+      },
+      {
+        "data": {
+          "group": "Region",
+          "label": "chr3:105891606-105892799",
+          "color": "#dae319f1",
+          "size": 10,
+          "shape": "Diamond",
+          "font_size": 0,
+          "font_color": "#000000ff",
+          "color_rgb": "#dae319",
+          "color_alpha": 251.63755458515283,
+          "font_color_rgb": "#000000",
+          "font_color_alpha": 255,
+          "title": "chr3:105891606-105892799",
+          "font": {
+            "size": 0.0,
+            "color": "#000000ff"
+          },
+          "x": -148.24869158503014,
+          "y": -108.94883808704348,
+          "fixed": {
+            "fixed.x": true,
+            "fixed.y": true
+          },
+          "id": "chr3:105891606-105892799",
+          "name": "chr3:105891606-105892799"
+        },
+        "position": {
+          "x": -118,
+          "y": -87
+        }
+      },
+      {
+        "data": {
+          "group": "Region",
+          "label": "chr8:120696095-120698014",
+          "color": "#b2dd2de2",
+          "size": 10,
+          "shape": "Diamond",
+          "font_size": 0,
+          "font_color": "#000000ff",
+          "color_rgb": "#b2dd2d",
+          "color_alpha": 248.03493449781658,
+          "font_color_rgb": "#000000",
+          "font_color_alpha": 255,
+          "title": "chr8:120696095-120698014",
+          "font": {
+            "size": 0.0,
+            "color": "#000000ff"
+          },
+          "x": -129.41529163587248,
+          "y": -83.33311122566377,
+          "fixed": {
+            "fixed.x": true,
+            "fixed.y": true
+          },
+          "id": "chr8:120696095-120698014",
+          "name": "chr8:120696095-120698014"
+        },
+        "position": {
+          "x": -103,
+          "y": -66
+        }
+      },
+      {
+        "data": {
+          "group": "Region",
+          "label": "chr11:61727509-61728482",
+          "color": "#20a48695",
+          "size": 10,
+          "shape": "Diamond",
+          "font_size": 0,
+          "font_color": "#000000ff",
+          "color_rgb": "#20a486",
+          "color_alpha": 229.54148471615719,
+          "font_color_rgb": "#000000",
+          "font_color_alpha": 255,
+          "title": "chr11:61727509-61728482",
+          "font": {
+            "size": 0.0,
+            "color": "#000000ff"
+          },
+          "x": -30.00488934729353,
+          "y": 4.210712519090089,
+          "fixed": {
+            "fixed.x": true,
+            "fixed.y": true
+          },
+          "id": "chr11:61727509-61728482",
+          "name": "chr11:61727509-61728482"
+        },
+        "position": {
+          "x": -24,
+          "y": 3
+        }
+      },
+      {
+        "data": {
+          "group": "Region",
+          "label": "chr1:87626327-87626784",
+          "color": "#4401541a",
+          "size": 10,
+          "shape": "Diamond",
+          "font_size": 0,
+          "font_color": "#000000ff",
+          "color_rgb": "#440154",
+          "color_alpha": 200.0,
+          "font_color_rgb": "#000000",
+          "font_color_alpha": 255,
+          "title": "chr1:87626327-87626784",
+          "font": {
+            "size": 0.0,
+            "color": "#000000ff"
+          },
+          "x": -3.316065533322895,
+          "y": -17.935181660269127,
+          "fixed": {
+            "fixed.x": true,
+            "fixed.y": true
+          },
+          "id": "chr1:87626327-87626784",
+          "name": "chr1:87626327-87626784"
+        },
+        "position": {
+          "x": -2,
+          "y": -14
+        }
+      },
+      {
+        "data": {
+          "group": "Region",
+          "label": "chr18:61107596-61109079",
+          "color": "#b5de2be3",
+          "size": 10,
+          "shape": "Diamond",
+          "font_size": 0,
+          "font_color": "#000000ff",
+          "color_rgb": "#b5de2b",
+          "color_alpha": 248.27510917030565,
+          "font_color_rgb": "#000000",
+          "font_color_alpha": 255,
+          "title": "chr18:61107596-61109079",
+          "font": {
+            "size": 0.0,
+            "color": "#000000ff"
+          },
+          "x": -92.5362832904698,
+          "y": -127.17890504293005,
+          "fixed": {
+            "fixed.x": true,
+            "fixed.y": true
+          },
+          "id": "chr18:61107596-61109079",
+          "name": "chr18:61107596-61109079"
+        },
+        "position": {
+          "x": -74,
+          "y": -101
+        }
+      },
+      {
+        "data": {
+          "group": "Region",
+          "label": "chr6:54272450-54273706",
+          "color": "#375b8d49",
+          "size": 10,
+          "shape": "Diamond",
+          "font_size": 0,
+          "font_color": "#000000ff",
+          "color_rgb": "#375b8d",
+          "color_alpha": 211.2882096069869,
+          "font_color_rgb": "#000000",
+          "font_color_alpha": 255,
+          "title": "chr6:54272450-54273706",
+          "font": {
+            "size": 0.0,
+            "color": "#000000ff"
+          },
+          "x": -80.23899165728831,
+          "y": -151.30731166114893,
+          "fixed": {
+            "fixed.x": true,
+            "fixed.y": true
+          },
+          "id": "chr6:54272450-54273706",
+          "name": "chr6:54272450-54273706"
+        },
+        "position": {
+          "x": -64,
+          "y": -121
+        }
+      },
+      {
+        "data": {
+          "group": "Region",
+          "label": "chr5:63826541-63828038",
+          "color": "#32658e52",
+          "size": 10,
+          "shape": "Diamond",
+          "font_size": 0,
+          "font_color": "#000000ff",
+          "color_rgb": "#32658e",
+          "color_alpha": 213.44978165938863,
+          "font_color_rgb": "#000000",
+          "font_color_alpha": 255,
+          "title": "chr5:63826541-63828038",
+          "font": {
+            "size": 0.0,
+            "color": "#000000ff"
+          },
+          "x": -58.34232325578834,
+          "y": -141.69038032202096,
+          "fixed": {
+            "fixed.x": true,
+            "fixed.y": true
+          },
+          "id": "chr5:63826541-63828038",
+          "name": "chr5:63826541-63828038"
+        },
+        "position": {
+          "x": -46,
+          "y": -113
+        }
+      },
+      {
+        "data": {
+          "group": "Region",
+          "label": "chr9:120037106-120038039",
+          "color": "#52c569b9",
+          "size": 10,
+          "shape": "Diamond",
+          "font_size": 0,
+          "font_color": "#000000ff",
+          "color_rgb": "#52c569",
+          "color_alpha": 238.1877729257642,
+          "font_color_rgb": "#000000",
+          "font_color_alpha": 255,
+          "title": "chr9:120037106-120038039",
+          "font": {
+            "size": 0.0,
+            "color": "#000000ff"
+          },
+          "x": -38.65486936171334,
+          "y": -157.50865101336285,
+          "fixed": {
+            "fixed.x": true,
+            "fixed.y": true
+          },
+          "id": "chr9:120037106-120038039",
+          "name": "chr9:120037106-120038039"
+        },
+        "position": {
+          "x": -30,
+          "y": -126
+        }
+      },
+      {
+        "data": {
+          "group": "Region",
+          "label": "chr8:92852829-92853881",
+          "color": "#1f998a89",
+          "size": 10,
+          "shape": "Diamond",
+          "font_size": 0,
+          "font_color": "#000000ff",
+          "color_rgb": "#1f998a",
+          "color_alpha": 226.6593886462882,
+          "font_color_rgb": "#000000",
+          "font_color_alpha": 255,
+          "title": "chr8:92852829-92853881",
+          "font": {
+            "size": 0.0,
+            "color": "#000000ff"
+          },
+          "x": -26.42630492064086,
+          "y": -132.0341972184504,
+          "fixed": {
+            "fixed.x": true,
+            "fixed.y": true
+          },
+          "id": "chr8:92852829-92853881",
+          "name": "chr8:92852829-92853881"
+        },
+        "position": {
+          "x": -21,
+          "y": -105
+        }
+      },
+      {
+        "data": {
+          "group": "TF",
+          "label": "Mef2c",
+          "color": "#ffa500ff",
+          "size": 30,
+          "shape": "Ellipse",
+          "font_size": 20,
+          "font_color": "#000000ff",
+          "color_rgb": "#ffa500",
+          "color_alpha": 255.0,
+          "font_color_rgb": "#000000",
+          "font_color_alpha": 255,
+          "title": "Mef2c",
+          "font": {
+            "size": 20.0,
+            "color": "#000000ff"
+          },
+          "x": 46.24095818725228,
+          "y": 53.73847496443268,
+          "fixed": {
+            "fixed.x": true,
+            "fixed.y": true
+          },
+          "id": "Mef2c",
+          "name": "Mef2c"
+        },
+        "position": {
+          "x": 36,
+          "y": 42
+        }
+      },
+      {
+        "data": {
+          "group": "Region",
+          "label": "chr2:101664203-101666106",
+          "color": "#2fb47ca6",
+          "size": 10,
+          "shape": "Diamond",
+          "font_size": 0,
+          "font_color": "#000000ff",
+          "color_rgb": "#2fb47c",
+          "color_alpha": 233.6244541484716,
+          "font_color_rgb": "#000000",
+          "font_color_alpha": 255,
+          "title": "chr2:101664203-101666106",
+          "font": {
+            "size": 0.0,
+            "color": "#000000ff"
+          },
+          "x": -19.17873177850729,
+          "y": -1.0359915480918482,
+          "fixed": {
+            "fixed.x": true,
+            "fixed.y": true
+          },
+          "id": "chr2:101664203-101666106",
+          "name": "chr2:101664203-101666106"
+        },
+        "position": {
+          "x": -15,
+          "y": 0
+        }
+      },
+      {
+        "data": {
+          "group": "Region",
+          "label": "chr10:70766275-70767710",
+          "color": "#365c8d49",
+          "size": 10,
+          "shape": "Diamond",
+          "font_size": 0,
+          "font_color": "#000000ff",
+          "color_rgb": "#365c8d",
+          "color_alpha": 211.2882096069869,
+          "font_color_rgb": "#000000",
+          "font_color_alpha": 255,
+          "title": "chr10:70766275-70767710",
+          "font": {
+            "size": 0.0,
+            "color": "#000000ff"
+          },
+          "x": -6.541644921110124,
+          "y": -148.05926782285613,
+          "fixed": {
+            "fixed.x": true,
+            "fixed.y": true
+          },
+          "id": "chr10:70766275-70767710",
+          "name": "chr10:70766275-70767710"
+        },
+        "position": {
+          "x": -5,
+          "y": -118
+        }
+      },
+      {
+        "data": {
+          "group": "Region",
+          "label": "chr10:20175858-20176676",
+          "color": "#42be71b2",
+          "size": 10,
+          "shape": "Diamond",
+          "font_size": 0,
+          "font_color": "#000000ff",
+          "color_rgb": "#42be71",
+          "color_alpha": 236.5065502183406,
+          "font_color_rgb": "#000000",
+          "font_color_alpha": 255,
+          "title": "chr10:20175858-20176676",
+          "font": {
+            "size": 0.0,
+            "color": "#000000ff"
+          },
+          "x": 3.8504818302973987,
+          "y": -129.6763809796962,
+          "fixed": {
+            "fixed.x": true,
+            "fixed.y": true
+          },
+          "id": "chr10:20175858-20176676",
+          "name": "chr10:20175858-20176676"
+        },
+        "position": {
+          "x": 3,
+          "y": -103
+        }
+      },
+      {
+        "data": {
+          "group": "Region",
+          "label": "chr1:106154649-106155944",
+          "color": "#20928c81",
+          "size": 10,
+          "shape": "Diamond",
+          "font_size": 0,
+          "font_color": "#000000ff",
+          "color_rgb": "#20928c",
+          "color_alpha": 224.73799126637553,
+          "font_color_rgb": "#000000",
+          "font_color_alpha": 255,
+          "title": "chr1:106154649-106155944",
+          "font": {
+            "size": 0.0,
+            "color": "#000000ff"
+          },
+          "x": 14.20628258562872,
+          "y": -32.546859778461844,
+          "fixed": {
+            "fixed.x": true,
+            "fixed.y": true
+          },
+          "id": "chr1:106154649-106155944",
+          "name": "chr1:106154649-106155944"
+        },
+        "position": {
+          "x": 11,
+          "y": -26
+        }
+      },
+      {
+        "data": {
+          "group": "Region",
+          "label": "chr1:190279618-190280696",
+          "color": "#481c6e1a",
+          "size": 10,
+          "shape": "Diamond",
+          "font_size": 0,
+          "font_color": "#000000ff",
+          "color_rgb": "#481c6e",
+          "color_alpha": 200.0,
+          "font_color_rgb": "#000000",
+          "font_color_alpha": 255,
+          "title": "chr1:190279618-190280696",
+          "font": {
+            "size": 0.0,
+            "color": "#000000ff"
+          },
+          "x": -13.424810509626305,
+          "y": 117.86277390736558,
+          "fixed": {
+            "fixed.x": true,
+            "fixed.y": true
+          },
+          "id": "chr1:190279618-190280696",
+          "name": "chr1:190279618-190280696"
+        },
+        "position": {
+          "x": -10,
+          "y": 94
+        }
+      },
+      {
+        "data": {
+          "group": "Region",
+          "label": "chr17:57086813-57087896",
+          "color": "#fde725ff",
+          "size": 10,
+          "shape": "Diamond",
+          "font_size": 0,
+          "font_color": "#000000ff",
+          "color_rgb": "#fde725",
+          "color_alpha": 255.0,
+          "font_color_rgb": "#000000",
+          "font_color_alpha": 255,
+          "title": "chr17:57086813-57087896",
+          "font": {
+            "size": 0.0,
+            "color": "#000000ff"
+          },
+          "x": -24.880077363124855,
+          "y": 99.11342487534452,
+          "fixed": {
+            "fixed.x": true,
+            "fixed.y": true
+          },
+          "id": "chr17:57086813-57087896",
+          "name": "chr17:57086813-57087896"
+        },
+        "position": {
+          "x": -19,
+          "y": 79
+        }
+      },
+      {
+        "data": {
+          "group": "Region",
+          "label": "chr2:31087723-31089963",
+          "color": "#1fa18891",
+          "size": 10,
+          "shape": "Diamond",
+          "font_size": 0,
+          "font_color": "#000000ff",
+          "color_rgb": "#1fa188",
+          "color_alpha": 228.58078602620085,
+          "font_color_rgb": "#000000",
+          "font_color_alpha": 255,
+          "title": "chr2:31087723-31089963",
+          "font": {
+            "size": 0.0,
+            "color": "#000000ff"
+          },
+          "x": 73.99282280764464,
+          "y": -4.86898648253815,
+          "fixed": {
+            "fixed.x": true,
+            "fixed.y": true
+          },
+          "id": "chr2:31087723-31089963",
+          "name": "chr2:31087723-31089963"
+        },
+        "position": {
+          "x": 59,
+          "y": -3
+        }
+      },
+      {
+        "data": {
+          "group": "Region",
+          "label": "chr7:81307514-81308226",
+          "color": "#228b8d7a",
+          "size": 10,
+          "shape": "Diamond",
+          "font_size": 0,
+          "font_color": "#000000ff",
+          "color_rgb": "#228b8d",
+          "color_alpha": 223.05676855895194,
+          "font_color_rgb": "#000000",
+          "font_color_alpha": 255,
+          "title": "chr7:81307514-81308226",
+          "font": {
+            "size": 0.0,
+            "color": "#000000ff"
+          },
+          "x": 93.66852756876385,
+          "y": -13.289339750782629,
+          "fixed": {
+            "fixed.x": true,
+            "fixed.y": true
+          },
+          "id": "chr7:81307514-81308226",
+          "name": "chr7:81307514-81308226"
+        },
+        "position": {
+          "x": 74,
+          "y": -10
+        }
+      },
+      {
+        "data": {
+          "group": "Region",
+          "label": "chr7:44474100-44475578",
+          "color": "#1e9d898d",
+          "size": 10,
+          "shape": "Diamond",
+          "font_size": 0,
+          "font_color": "#000000ff",
+          "color_rgb": "#1e9d89",
+          "color_alpha": 227.62008733624452,
+          "font_color_rgb": "#000000",
+          "font_color_alpha": 255,
+          "title": "chr7:44474100-44475578",
+          "font": {
+            "size": 0.0,
+            "color": "#000000ff"
+          },
+          "x": 111.80127805828374,
+          "y": -0.7233388393903475,
+          "fixed": {
+            "fixed.x": true,
+            "fixed.y": true
+          },
+          "id": "chr7:44474100-44475578",
+          "name": "chr7:44474100-44475578"
+        },
+        "position": {
+          "x": 89,
+          "y": 0
+        }
+      },
+      {
+        "data": {
+          "group": "Region",
+          "label": "chr1:180945251-180945994",
+          "color": "#20928c82",
+          "size": 10,
+          "shape": "Diamond",
+          "font_size": 0,
+          "font_color": "#000000ff",
+          "color_rgb": "#20928c",
+          "color_alpha": 224.9781659388646,
+          "font_color_rgb": "#000000",
+          "font_color_alpha": 255,
+          "title": "chr1:180945251-180945994",
+          "font": {
+            "size": 0.0,
+            "color": "#000000ff"
+          },
+          "x": 125.15334711296272,
+          "y": 22.758939597281813,
+          "fixed": {
+            "fixed.x": true,
+            "fixed.y": true
+          },
+          "id": "chr1:180945251-180945994",
+          "name": "chr1:180945251-180945994"
+        },
+        "position": {
+          "x": 100,
+          "y": 18
+        }
+      },
+      {
+        "data": {
+          "group": "Region",
+          "label": "chr7:64158550-64160176",
+          "color": "#98d83ed8",
+          "size": 10,
+          "shape": "Diamond",
+          "font_size": 0,
+          "font_color": "#000000ff",
+          "color_rgb": "#98d83e",
+          "color_alpha": 245.63318777292577,
+          "font_color_rgb": "#000000",
+          "font_color_alpha": 255,
+          "title": "chr7:64158550-64160176",
+          "font": {
+            "size": 0.0,
+            "color": "#000000ff"
+          },
+          "x": 91.52648298602499,
+          "y": 18.157831995721722,
+          "fixed": {
+            "fixed.x": true,
+            "fixed.y": true
+          },
+          "id": "chr7:64158550-64160176",
+          "name": "chr7:64158550-64160176"
+        },
+        "position": {
+          "x": 73,
+          "y": 14
+        }
+      },
+      {
+        "data": {
+          "group": "Region",
+          "label": "chr13:104039363-104040505",
+          "color": "#31678e54",
+          "size": 10,
+          "shape": "Diamond",
+          "font_size": 0,
+          "font_color": "#000000ff",
+          "color_rgb": "#31678e",
+          "color_alpha": 213.9301310043668,
+          "font_color_rgb": "#000000",
+          "font_color_alpha": 255,
+          "title": "chr13:104039363-104040505",
+          "font": {
+            "size": 0.0,
+            "color": "#000000ff"
+          },
+          "x": 8.086825331962611,
+          "y": 82.64691201002249,
+          "fixed": {
+            "fixed.x": true,
+            "fixed.y": true
+          },
+          "id": "chr13:104039363-104040505",
+          "name": "chr13:104039363-104040505"
+        },
+        "position": {
+          "x": 6,
+          "y": 66
+        }
+      },
+      {
+        "data": {
+          "group": "Region",
+          "label": "chr6:51432182-51433308",
+          "color": "#77d153cb",
+          "size": 10,
+          "shape": "Diamond",
+          "font_size": 0,
+          "font_color": "#000000ff",
+          "color_rgb": "#77d153",
+          "color_alpha": 242.51091703056767,
+          "font_color_rgb": "#000000",
+          "font_color_alpha": 255,
+          "title": "chr6:51432182-51433308",
+          "font": {
+            "size": 0.0,
+            "color": "#000000ff"
+          },
+          "x": 106.11768780706541,
+          "y": 42.2532349074066,
+          "fixed": {
+            "fixed.x": true,
+            "fixed.y": true
+          },
+          "id": "chr6:51432182-51433308",
+          "name": "chr6:51432182-51433308"
+        },
+        "position": {
+          "x": 84,
+          "y": 33
+        }
+      },
+      {
+        "data": {
+          "group": "Region",
+          "label": "chr2:103643372-103644752",
+          "color": "#3b518b3f",
+          "size": 10,
+          "shape": "Diamond",
+          "font_size": 0,
+          "font_color": "#000000ff",
+          "color_rgb": "#3b518b",
+          "color_alpha": 208.88646288209605,
+          "font_color_rgb": "#000000",
+          "font_color_alpha": 255,
+          "title": "chr2:103643372-103644752",
+          "font": {
+            "size": 0.0,
+            "color": "#000000ff"
+          },
+          "x": 125.90636055436963,
+          "y": 76.36862571447477,
+          "fixed": {
+            "fixed.x": true,
+            "fixed.y": true
+          },
+          "id": "chr2:103643372-103644752",
+          "name": "chr2:103643372-103644752"
+        },
+        "position": {
+          "x": 100,
+          "y": 61
+        }
+      },
+      {
+        "data": {
+          "group": "Region",
+          "label": "chr4:8910776-8912212",
+          "color": "#1e9d898d",
+          "size": 10,
+          "shape": "Diamond",
+          "font_size": 0,
+          "font_color": "#000000ff",
+          "color_rgb": "#1e9d89",
+          "color_alpha": 227.62008733624452,
+          "font_color_rgb": "#000000",
+          "font_color_alpha": 255,
+          "title": "chr4:8910776-8912212",
+          "font": {
+            "size": 0.0,
+            "color": "#000000ff"
+          },
+          "x": 113.37771837180541,
+          "y": 101.69243316326784,
+          "fixed": {
+            "fixed.x": true,
+            "fixed.y": true
+          },
+          "id": "chr4:8910776-8912212",
+          "name": "chr4:8910776-8912212"
+        },
+        "position": {
+          "x": 90,
+          "y": 81
+        }
+      },
+      {
+        "data": {
+          "group": "Region",
+          "label": "chr1:172295639-172296537",
+          "color": "#70cf57c8",
+          "size": 10,
+          "shape": "Diamond",
+          "font_size": 0,
+          "font_color": "#000000ff",
+          "color_rgb": "#70cf57",
+          "color_alpha": 241.7903930131004,
+          "font_color_rgb": "#000000",
+          "font_color_alpha": 255,
+          "title": "chr1:172295639-172296537",
+          "font": {
+            "size": 0.0,
+            "color": "#000000ff"
+          },
+          "x": 97.77144384171925,
+          "y": 119.01010248167047,
+          "fixed": {
+            "fixed.x": true,
+            "fixed.y": true
+          },
+          "id": "chr1:172295639-172296537",
+          "name": "chr1:172295639-172296537"
+        },
+        "position": {
+          "x": 78,
+          "y": 95
+        }
+      },
+      {
+        "data": {
+          "group": "Region",
+          "label": "chr13:104031709-104032979",
+          "color": "#29af7fa1",
+          "size": 10,
+          "shape": "Diamond",
+          "font_size": 0,
+          "font_color": "#000000ff",
+          "color_rgb": "#29af7f",
+          "color_alpha": 232.4235807860262,
+          "font_color_rgb": "#000000",
+          "font_color_alpha": 255,
+          "title": "chr13:104031709-104032979",
+          "font": {
+            "size": 0.0,
+            "color": "#000000ff"
+          },
+          "x": -9.436386564703662,
+          "y": 78.04945367932899,
+          "fixed": {
+            "fixed.x": true,
+            "fixed.y": true
+          },
+          "id": "chr13:104031709-104032979",
+          "name": "chr13:104031709-104032979"
+        },
+        "position": {
+          "x": -7,
+          "y": 62
+        }
+      },
+      {
+        "data": {
+          "group": "Region",
+          "label": "chr4:109224445-109226359",
+          "color": "#1fa18891",
+          "size": 10,
+          "shape": "Diamond",
+          "font_size": 0,
+          "font_color": "#000000ff",
+          "color_rgb": "#1fa188",
+          "color_alpha": 228.58078602620085,
+          "font_color_rgb": "#000000",
+          "font_color_alpha": 255,
+          "title": "chr4:109224445-109226359",
+          "font": {
+            "size": 0.0,
+            "color": "#000000ff"
+          },
+          "x": 129.61661181949148,
+          "y": 52.69004610122417,
+          "fixed": {
+            "fixed.x": true,
+            "fixed.y": true
+          },
+          "id": "chr4:109224445-109226359",
+          "name": "chr4:109224445-109226359"
+        },
+        "position": {
+          "x": 103,
+          "y": 42
+        }
+      },
+      {
+        "data": {
+          "group": "Region",
+          "label": "chr1:165609482-165611026",
+          "color": "#89d548d2",
+          "size": 10,
+          "shape": "Diamond",
+          "font_size": 0,
+          "font_color": "#000000ff",
+          "color_rgb": "#89d548",
+          "color_alpha": 244.19213973799125,
+          "font_color_rgb": "#000000",
+          "font_color_alpha": 255,
+          "title": "chr1:165609482-165611026",
+          "font": {
+            "size": 0.0,
+            "color": "#000000ff"
+          },
+          "x": 73.30788363741216,
+          "y": 105.3573555342967,
+          "fixed": {
+            "fixed.x": true,
+            "fixed.y": true
+          },
+          "id": "chr1:165609482-165611026",
+          "name": "chr1:165609482-165611026"
+        },
+        "position": {
+          "x": 58,
+          "y": 84
+        }
+      },
+      {
+        "data": {
+          "group": "Region",
+          "label": "chr8:80803709-80804548",
+          "color": "#1e9b8a8b",
+          "size": 10,
+          "shape": "Diamond",
+          "font_size": 0,
+          "font_color": "#000000ff",
+          "color_rgb": "#1e9b8a",
+          "color_alpha": 227.13973799126637,
+          "font_color_rgb": "#000000",
+          "font_color_alpha": 255,
+          "title": "chr8:80803709-80804548",
+          "font": {
+            "size": 0.0,
+            "color": "#000000ff"
+          },
+          "x": 22.361482080449132,
+          "y": 137.9454036770544,
+          "fixed": {
+            "fixed.x": true,
+            "fixed.y": true
+          },
+          "id": "chr8:80803709-80804548",
+          "name": "chr8:80803709-80804548"
+        },
+        "position": {
+          "x": 17,
+          "y": 110
+        }
+      },
+      {
+        "data": {
+          "group": "Region",
+          "label": "chr2:25469041-25470318",
+          "color": "#20a38694",
+          "size": 10,
+          "shape": "Diamond",
+          "font_size": 0,
+          "font_color": "#000000ff",
+          "color_rgb": "#20a386",
+          "color_alpha": 229.3013100436681,
+          "font_color_rgb": "#000000",
+          "font_color_alpha": 255,
+          "title": "chr2:25469041-25470318",
+          "font": {
+            "size": 0.0,
+            "color": "#000000ff"
+          },
+          "x": 50.41536803702721,
+          "y": 138.14684889289555,
+          "fixed": {
+            "fixed.x": true,
+            "fixed.y": true
+          },
+          "id": "chr2:25469041-25470318",
+          "name": "chr2:25469041-25470318"
+        },
+        "position": {
+          "x": 40,
+          "y": 110
+        }
+      },
+      {
+        "data": {
+          "group": "Region",
+          "label": "chr11:100574615-100575976",
+          "color": "#cae11fea",
+          "size": 10,
+          "shape": "Diamond",
+          "font_size": 0,
+          "font_color": "#000000ff",
+          "color_rgb": "#cae11f",
+          "color_alpha": 249.95633187772924,
+          "font_color_rgb": "#000000",
+          "font_color_alpha": 255,
+          "title": "chr11:100574615-100575976",
+          "font": {
+            "size": 0.0,
+            "color": "#000000ff"
+          },
+          "x": 98.16654325029857,
+          "y": 77.49383411838035,
+          "fixed": {
+            "fixed.x": true,
+            "fixed.y": true
+          },
+          "id": "chr11:100574615-100575976",
+          "name": "chr11:100574615-100575976"
+        },
+        "position": {
+          "x": 78,
+          "y": 61
+        }
+      },
+      {
+        "data": {
+          "group": "Region",
+          "label": "chr18:57260831-57263517",
+          "color": "#1fa18792",
+          "size": 10,
+          "shape": "Diamond",
+          "font_size": 0,
+          "font_color": "#000000ff",
+          "color_rgb": "#1fa187",
+          "color_alpha": 228.82096069868993,
+          "font_color_rgb": "#000000",
+          "font_color_alpha": 255,
+          "title": "chr18:57260831-57263517",
+          "font": {
+            "size": 0.0,
+            "color": "#000000ff"
+          },
+          "x": 73.12294004443923,
+          "y": 133.33986602553054,
+          "fixed": {
+            "fixed.x": true,
+            "fixed.y": true
+          },
+          "id": "chr18:57260831-57263517",
+          "name": "chr18:57260831-57263517"
+        },
+        "position": {
+          "x": 58,
+          "y": 106
+        }
+      },
+      {
+        "data": {
+          "group": "Region",
+          "label": "chr9:44733398-44735595",
+          "color": "#c0df25e7",
+          "size": 10,
+          "shape": "Diamond",
+          "font_size": 0,
+          "font_color": "#000000ff",
+          "color_rgb": "#c0df25",
+          "color_alpha": 249.235807860262,
+          "font_color_rgb": "#000000",
+          "font_color_alpha": 255,
+          "title": "chr9:44733398-44735595",
+          "font": {
+            "size": 0.0,
+            "color": "#000000ff"
+          },
+          "x": 36.97554433489947,
+          "y": 113.09497271248821,
+          "fixed": {
+            "fixed.x": true,
+            "fixed.y": true
+          },
+          "id": "chr9:44733398-44735595",
+          "name": "chr9:44733398-44735595"
+        },
+        "position": {
+          "x": 29,
+          "y": 90
+        }
+      },
+      {
+        "data": {
+          "group": "Region",
+          "label": "chr2:164515493-164516526",
+          "color": "#277f8e6d",
+          "size": 10,
+          "shape": "Diamond",
+          "font_size": 0,
+          "font_color": "#000000ff",
+          "color_rgb": "#277f8e",
+          "color_alpha": 219.93449781659388,
+          "font_color_rgb": "#000000",
+          "font_color_alpha": 255,
+          "title": "chr2:164515493-164516526",
+          "font": {
+            "size": 0.0,
+            "color": "#000000ff"
+          },
+          "x": 5.5328918014293125,
+          "y": 124.1205391704517,
+          "fixed": {
+            "fixed.x": true,
+            "fixed.y": true
+          },
+          "id": "chr2:164515493-164516526",
+          "name": "chr2:164515493-164516526"
+        },
+        "position": {
+          "x": 4,
+          "y": 99
+        }
+      },
+      {
+        "data": {
+          "group": "Gene",
+          "label": "Adap2",
+          "color": "#0000ff1a",
+          "size": 15,
+          "shape": "Ellipse",
+          "font_size": 10,
+          "font_color": "#000000ff",
+          "color_rgb": "#0000ff",
+          "color_alpha": 200.0,
+          "font_color_rgb": "#000000",
+          "font_color_alpha": 255,
+          "title": "Adap2",
+          "font": {
+            "size": 10.0,
+            "color": "#000000ff"
+          },
+          "x": -226.41206130625991,
+          "y": 13.26607226625335,
+          "fixed": {
+            "fixed.x": true,
+            "fixed.y": true
+          },
+          "id": "Adap2",
+          "name": "Adap2"
+        },
+        "position": {
+          "x": -181,
+          "y": 10
+        }
+      },
+      {
+        "data": {
+          "group": "Gene",
+          "label": "Rcsd1",
+          "color": "#ff5c5cd1",
+          "size": 15,
+          "shape": "Ellipse",
+          "font_size": 10,
+          "font_color": "#000000ff",
+          "color_rgb": "#ff5c5c",
+          "color_alpha": 243.95196506550218,
+          "font_color_rgb": "#000000",
+          "font_color_alpha": 255,
+          "title": "Rcsd1",
+          "font": {
+            "size": 10.0,
+            "color": "#000000ff"
+          },
+          "x": -237.93114546563675,
+          "y": -13.529274065379267,
+          "fixed": {
+            "fixed.x": true,
+            "fixed.y": true
+          },
+          "id": "Rcsd1",
+          "name": "Rcsd1"
+        },
+        "position": {
+          "x": -190,
+          "y": -10
+        }
+      },
+      {
+        "data": {
+          "group": "Gene",
+          "label": "Dennd2c",
+          "color": "#ff9494b5",
+          "size": 15,
+          "shape": "Ellipse",
+          "font_size": 10,
+          "font_color": "#000000ff",
+          "color_rgb": "#ff9494",
+          "color_alpha": 237.22707423580786,
+          "font_color_rgb": "#000000",
+          "font_color_alpha": 255,
+          "title": "Dennd2c",
+          "font": {
+            "size": 10.0,
+            "color": "#000000ff"
+          },
+          "x": -233.88712715275219,
+          "y": -40.570148238318325,
+          "fixed": {
+            "fixed.x": true,
+            "fixed.y": true
+          },
+          "id": "Dennd2c",
+          "name": "Dennd2c"
+        },
+        "position": {
+          "x": -187,
+          "y": -32
+        }
+      },
+      {
+        "data": {
+          "group": "Gene",
+          "label": "Cst3",
+          "color": "#ff4040df",
+          "size": 15,
+          "shape": "Ellipse",
+          "font_size": 10,
+          "font_color": "#000000ff",
+          "color_rgb": "#ff4040",
+          "color_alpha": 247.31441048034935,
+          "font_color_rgb": "#000000",
+          "font_color_alpha": 255,
+          "title": "Cst3",
+          "font": {
+            "size": 10.0,
+            "color": "#000000ff"
+          },
+          "x": -98.72515459309551,
+          "y": 38.953205619625955,
+          "fixed": {
+            "fixed.x": true,
+            "fixed.y": true
+          },
+          "id": "Cst3",
+          "name": "Cst3"
+        },
+        "position": {
+          "x": -78,
+          "y": 31
+        }
+      },
+      {
+        "data": {
+          "group": "Gene",
+          "label": "Gngt2",
+          "color": "#ffc4c49d",
+          "size": 15,
+          "shape": "Ellipse",
+          "font_size": 10,
+          "font_color": "#000000ff",
+          "color_rgb": "#ffc4c4",
+          "color_alpha": 231.46288209606985,
+          "font_color_rgb": "#000000",
+          "font_color_alpha": 255,
+          "title": "Gngt2",
+          "font": {
+            "size": 10.0,
+            "color": "#000000ff"
+          },
+          "x": -204.99686090255568,
+          "y": -168.16784137676186,
+          "fixed": {
+            "fixed.x": true,
+            "fixed.y": true
+          },
+          "id": "Gngt2",
+          "name": "Gngt2"
+        },
+        "position": {
+          "x": -163,
+          "y": -134
+        }
+      },
+      {
+        "data": {
+          "group": "Gene",
+          "label": "Adora3",
+          "color": "#ffcaca9a",
+          "size": 15,
+          "shape": "Ellipse",
+          "font_size": 10,
+          "font_color": "#000000ff",
+          "color_rgb": "#ffcaca",
+          "color_alpha": 230.74235807860262,
+          "font_color_rgb": "#000000",
+          "font_color_alpha": 255,
+          "title": "Adora3",
+          "font": {
+            "size": 10.0,
+            "color": "#000000ff"
+          },
+          "x": -238.9042827450943,
+          "y": -100.50613572104841,
+          "fixed": {
+            "fixed.x": true,
+            "fixed.y": true
+          },
+          "id": "Adora3",
+          "name": "Adora3"
+        },
+        "position": {
+          "x": -191,
+          "y": -80
+        }
+      },
+      {
+        "data": {
+          "group": "Gene",
+          "label": "Irf8",
+          "color": "#f4f4ff7a",
+          "size": 15,
+          "shape": "Ellipse",
+          "font_size": 10,
+          "font_color": "#000000ff",
+          "color_rgb": "#f4f4ff",
+          "color_alpha": 223.05676855895194,
+          "font_color_rgb": "#000000",
+          "font_color_alpha": 255,
+          "title": "Irf8",
+          "font": {
+            "size": 10.0,
+            "color": "#000000ff"
+          },
+          "x": -234.38100475904926,
+          "y": -73.91022053465042,
+          "fixed": {
+            "fixed.x": true,
+            "fixed.y": true
+          },
+          "id": "Irf8",
+          "name": "Irf8"
+        },
+        "position": {
+          "x": -187,
+          "y": -59
+        }
+      },
+      {
+        "data": {
+          "group": "Gene",
+          "label": "Ulk2",
+          "color": "#ff0000ff",
+          "size": 15,
+          "shape": "Ellipse",
+          "font_size": 10,
+          "font_color": "#000000ff",
+          "color_rgb": "#ff0000",
+          "color_alpha": 255.0,
+          "font_color_rgb": "#000000",
+          "font_color_alpha": 255,
+          "title": "Ulk2",
+          "font": {
+            "size": 10.0,
+            "color": "#000000ff"
+          },
+          "x": -112.1193548034473,
+          "y": 62.806742121976455,
+          "fixed": {
+            "fixed.x": true,
+            "fixed.y": true
+          },
+          "id": "Ulk2",
+          "name": "Ulk2"
+        },
+        "position": {
+          "x": -89,
+          "y": 50
+        }
+      },
+      {
+        "data": {
+          "group": "Gene",
+          "label": "Tmigd3",
+          "color": "#babaff5d",
+          "size": 15,
+          "shape": "Ellipse",
+          "font_size": 10,
+          "font_color": "#000000ff",
+          "color_rgb": "#babaff",
+          "color_alpha": 216.09170305676855,
+          "font_color_rgb": "#000000",
+          "font_color_alpha": 255,
+          "title": "Tmigd3",
+          "font": {
+            "size": 10.0,
+            "color": "#000000ff"
+          },
+          "x": -227.08650136176215,
+          "y": -139.07468149476375,
+          "fixed": {
+            "fixed.x": true,
+            "fixed.y": true
+          },
+          "id": "Tmigd3",
+          "name": "Tmigd3"
+        },
+        "position": {
+          "x": -181,
+          "y": -111
+        }
+      },
+      {
+        "data": {
+          "group": "Gene",
+          "label": "Inpp5d",
+          "color": "#ff9292b6",
+          "size": 15,
+          "shape": "Ellipse",
+          "font_size": 10,
+          "font_color": "#000000ff",
+          "color_rgb": "#ff9292",
+          "color_alpha": 237.46724890829694,
+          "font_color_rgb": "#000000",
+          "font_color_alpha": 255,
+          "title": "Inpp5d",
+          "font": {
+            "size": 10.0,
+            "color": "#000000ff"
+          },
+          "x": -84.47714152362425,
+          "y": 26.22329038321723,
+          "fixed": {
+            "fixed.x": true,
+            "fixed.y": true
+          },
+          "id": "Inpp5d",
+          "name": "Inpp5d"
+        },
+        "position": {
+          "x": -67,
+          "y": 20
+        }
+      },
+      {
+        "data": {
+          "group": "Gene",
+          "label": "Csf1r",
+          "color": "#ffc2c29e",
+          "size": 15,
+          "shape": "Ellipse",
+          "font_size": 10,
+          "font_color": "#000000ff",
+          "color_rgb": "#ffc2c2",
+          "color_alpha": 231.70305676855895,
+          "font_color_rgb": "#000000",
+          "font_color_alpha": 255,
+          "title": "Csf1r",
+          "font": {
+            "size": 10.0,
+            "color": "#000000ff"
+          },
+          "x": -122.61045327242074,
+          "y": -227.91410402941514,
+          "fixed": {
+            "fixed.x": true,
+            "fixed.y": true
+          },
+          "id": "Csf1r",
+          "name": "Csf1r"
+        },
+        "position": {
+          "x": -98,
+          "y": -182
+        }
+      },
+      {
+        "data": {
+          "group": "Gene",
+          "label": "I830077J02Rik",
+          "color": "#ffb6b6a4",
+          "size": 15,
+          "shape": "Ellipse",
+          "font_size": 10,
+          "font_color": "#000000ff",
+          "color_rgb": "#ffb6b6",
+          "color_alpha": 233.14410480349346,
+          "font_color_rgb": "#000000",
+          "font_color_alpha": 255,
+          "title": "I830077J02Rik",
+          "font": {
+            "size": 10.0,
+            "color": "#000000ff"
+          },
+          "x": -189.8175311017416,
+          "y": -188.74726041536886,
+          "fixed": {
+            "fixed.x": true,
+            "fixed.y": true
+          },
+          "id": "I830077J02Rik",
+          "name": "I830077J02Rik"
+        },
+        "position": {
+          "x": -151,
+          "y": -150
+        }
+      },
+      {
+        "data": {
+          "group": "Gene",
+          "label": "Chn2",
+          "color": "#ffa2a2ae",
+          "size": 15,
+          "shape": "Ellipse",
+          "font_size": 10,
+          "font_color": "#000000ff",
+          "color_rgb": "#ffa2a2",
+          "color_alpha": 235.54585152838428,
+          "font_color_rgb": "#000000",
+          "font_color_alpha": 255,
+          "title": "Chn2",
+          "font": {
+            "size": 10.0,
+            "color": "#000000ff"
+          },
+          "x": -89.06864265115478,
+          "y": -245.96336273181225,
+          "fixed": {
+            "fixed.x": true,
+            "fixed.y": true
+          },
+          "id": "Chn2",
+          "name": "Chn2"
+        },
+        "position": {
+          "x": -71,
+          "y": -196
+        }
+      },
+      {
+        "data": {
+          "group": "Gene",
+          "label": "0610040J01Rik",
+          "color": "#ff3a3ae1",
+          "size": 15,
+          "shape": "Ellipse",
+          "font_size": 10,
+          "font_color": "#000000ff",
+          "color_rgb": "#ff3a3a",
+          "color_alpha": 247.7947598253275,
+          "font_color_rgb": "#000000",
+          "font_color_alpha": 255,
+          "title": "0610040J01Rik",
+          "font": {
+            "size": 10.0,
+            "color": "#000000ff"
+          },
+          "x": -52.548253848554566,
+          "y": -245.81735341036534,
+          "fixed": {
+            "fixed.x": true,
+            "fixed.y": true
+          },
+          "id": "0610040J01Rik",
+          "name": "0610040J01Rik"
+        },
+        "position": {
+          "x": -42,
+          "y": -196
+        }
+      },
+      {
+        "data": {
+          "group": "Gene",
+          "label": "Abi3",
+          "color": "#d6d6ff6c",
+          "size": 15,
+          "shape": "Ellipse",
+          "font_size": 10,
+          "font_color": "#000000ff",
+          "color_rgb": "#d6d6ff",
+          "color_alpha": 219.6943231441048,
+          "font_color_rgb": "#000000",
+          "font_color_alpha": 255,
+          "title": "Abi3",
+          "font": {
+            "size": 10.0,
+            "color": "#000000ff"
+          },
+          "x": -155.75873030004726,
+          "y": -217.87371160427134,
+          "fixed": {
+            "fixed.x": true,
+            "fixed.y": true
+          },
+          "id": "Abi3",
+          "name": "Abi3"
+        },
+        "position": {
+          "x": -124,
+          "y": -174
+        }
+      },
+      {
+        "data": {
+          "group": "Gene",
+          "label": "Cx3cr1",
+          "color": "#ff3030e6",
+          "size": 15,
+          "shape": "Ellipse",
+          "font_size": 10,
+          "font_color": "#000000ff",
+          "color_rgb": "#ff3030",
+          "color_alpha": 248.9956331877729,
+          "font_color_rgb": "#000000",
+          "font_color_alpha": 255,
+          "title": "Cx3cr1",
+          "font": {
+            "size": 10.0,
+            "color": "#000000ff"
+          },
+          "x": -17.283149468380667,
+          "y": -249.99999999999997,
+          "fixed": {
+            "fixed.x": true,
+            "fixed.y": true
+          },
+          "id": "Cx3cr1",
+          "name": "Cx3cr1"
+        },
+        "position": {
+          "x": -13,
+          "y": -199
+        }
+      },
+      {
+        "data": {
+          "group": "Gene",
+          "label": "Lpcat2",
+          "color": "#ff3c3ce1",
+          "size": 15,
+          "shape": "Ellipse",
+          "font_size": 10,
+          "font_color": "#000000ff",
+          "color_rgb": "#ff3c3c",
+          "color_alpha": 247.7947598253275,
+          "font_color_rgb": "#000000",
+          "font_color_alpha": 255,
+          "title": "Lpcat2",
+          "font": {
+            "size": 10.0,
+            "color": "#000000ff"
+          },
+          "x": 11.571656460885983,
+          "y": -233.7660297693749,
+          "fixed": {
+            "fixed.x": true,
+            "fixed.y": true
+          },
+          "id": "Lpcat2",
+          "name": "Lpcat2"
+        },
+        "position": {
+          "x": 9,
+          "y": -187
+        }
+      },
+      {
+        "data": {
+          "group": "Gene",
+          "label": "Prr5l",
+          "color": "#7c7cff3f",
+          "size": 15,
+          "shape": "Ellipse",
+          "font_size": 10,
+          "font_color": "#000000ff",
+          "color_rgb": "#7c7cff",
+          "color_alpha": 208.88646288209605,
+          "font_color_rgb": "#000000",
+          "font_color_alpha": 255,
+          "title": "Prr5l",
+          "font": {
+            "size": 10.0,
+            "color": "#000000ff"
+          },
+          "x": -99.87980210546326,
+          "y": 56.149860615209185,
+          "fixed": {
+            "fixed.x": true,
+            "fixed.y": true
+          },
+          "id": "Prr5l",
+          "name": "Prr5l"
+        },
+        "position": {
+          "x": -79,
+          "y": 44
+        }
+      },
+      {
+        "data": {
+          "group": "Gene",
+          "label": "Phyhipl",
+          "color": "#ff0606fb",
+          "size": 15,
+          "shape": "Ellipse",
+          "font_size": 10,
+          "font_color": "#000000ff",
+          "color_rgb": "#ff0606",
+          "color_alpha": 254.03930131004364,
+          "font_color_rgb": "#000000",
+          "font_color_alpha": 255,
+          "title": "Phyhipl",
+          "font": {
+            "size": 10.0,
+            "color": "#000000ff"
+          },
+          "x": 40.614443568780736,
+          "y": -231.13332196984294,
+          "fixed": {
+            "fixed.x": true,
+            "fixed.y": true
+          },
+          "id": "Phyhipl",
+          "name": "Phyhipl"
+        },
+        "position": {
+          "x": 32,
+          "y": -184
+        }
+      },
+      {
+        "data": {
+          "group": "Gene",
+          "label": "Map7",
+          "color": "#ff0000ff",
+          "size": 15,
+          "shape": "Ellipse",
+          "font_size": 10,
+          "font_color": "#000000ff",
+          "color_rgb": "#ff0000",
+          "color_alpha": 255.0,
+          "font_color_rgb": "#000000",
+          "font_color_alpha": 255,
+          "title": "Map7",
+          "font": {
+            "size": 10.0,
+            "color": "#000000ff"
+          },
+          "x": 62.55026460254816,
+          "y": -212.0189629286283,
+          "fixed": {
+            "fixed.x": true,
+            "fixed.y": true
+          },
+          "id": "Map7",
+          "name": "Map7"
+        },
+        "position": {
+          "x": 50,
+          "y": -169
+        }
+      },
+      {
+        "data": {
+          "group": "Gene",
+          "label": "Phlpp1",
+          "color": "#ff2a2ae9",
+          "size": 15,
+          "shape": "Ellipse",
+          "font_size": 10,
+          "font_color": "#000000ff",
+          "color_rgb": "#ff2a2a",
+          "color_alpha": 249.71615720524017,
+          "font_color_rgb": "#000000",
+          "font_color_alpha": 255,
+          "title": "Phlpp1",
+          "font": {
+            "size": 10.0,
+            "color": "#000000ff"
+          },
+          "x": 73.89210477346155,
+          "y": -95.6964738271895,
+          "fixed": {
+            "fixed.x": true,
+            "fixed.y": true
+          },
+          "id": "Phlpp1",
+          "name": "Phlpp1"
+        },
+        "position": {
+          "x": 59,
+          "y": -76
+        }
+      },
+      {
+        "data": {
+          "group": "Gene",
+          "label": "Prox1",
+          "color": "#3434ff1b",
+          "size": 15,
+          "shape": "Ellipse",
+          "font_size": 10,
+          "font_color": "#000000ff",
+          "color_rgb": "#3434ff",
+          "color_alpha": 200.24017467248908,
+          "font_color_rgb": "#000000",
+          "font_color_alpha": 255,
+          "title": "Prox1",
+          "font": {
+            "size": 10.0,
+            "color": "#000000ff"
+          },
+          "x": -62.431651324688055,
+          "y": 204.4250365202982,
+          "fixed": {
+            "fixed.x": true,
+            "fixed.y": true
+          },
+          "id": "Prox1",
+          "name": "Prox1"
+        },
+        "position": {
+          "x": -49,
+          "y": 163
+        }
+      },
+      {
+        "data": {
+          "group": "Gene",
+          "label": "Tubb4a",
+          "color": "#ff3838e3",
+          "size": 15,
+          "shape": "Ellipse",
+          "font_size": 10,
+          "font_color": "#000000ff",
+          "color_rgb": "#ff3838",
+          "color_alpha": 248.27510917030565,
+          "font_color_rgb": "#000000",
+          "font_color_alpha": 255,
+          "title": "Tubb4a",
+          "font": {
+            "size": 10.0,
+            "color": "#000000ff"
+          },
+          "x": -91.38789913198033,
+          "y": 179.28178212725666,
+          "fixed": {
+            "fixed.x": true,
+            "fixed.y": true
+          },
+          "id": "Tubb4a",
+          "name": "Tubb4a"
+        },
+        "position": {
+          "x": -73,
+          "y": 143
+        }
+      },
+      {
+        "data": {
+          "group": "Gene",
+          "label": "Fnbp1",
+          "color": "#ff3434e4",
+          "size": 15,
+          "shape": "Ellipse",
+          "font_size": 10,
+          "font_color": "#000000ff",
+          "color_rgb": "#ff3434",
+          "color_alpha": 248.51528384279476,
+          "font_color_rgb": "#000000",
+          "font_color_alpha": 255,
+          "title": "Fnbp1",
+          "font": {
+            "size": 10.0,
+            "color": "#000000ff"
+          },
+          "x": 161.9513103248973,
+          "y": -74.6265102513138,
+          "fixed": {
+            "fixed.x": true,
+            "fixed.y": true
+          },
+          "id": "Fnbp1",
+          "name": "Fnbp1"
+        },
+        "position": {
+          "x": 129,
+          "y": -59
+        }
+      },
+      {
+        "data": {
+          "group": "Gene",
+          "label": "Pde8a",
+          "color": "#ffcaca9a",
+          "size": 15,
+          "shape": "Ellipse",
+          "font_size": 10,
+          "font_color": "#000000ff",
+          "color_rgb": "#ffcaca",
+          "color_alpha": 230.74235807860262,
+          "font_color_rgb": "#000000",
+          "font_color_alpha": 255,
+          "title": "Pde8a",
+          "font": {
+            "size": 10.0,
+            "color": "#000000ff"
+          },
+          "x": 183.1086643726342,
+          "y": -63.198628317510234,
+          "fixed": {
+            "fixed.x": true,
+            "fixed.y": true
+          },
+          "id": "Pde8a",
+          "name": "Pde8a"
+        },
+        "position": {
+          "x": 146,
+          "y": -50
+        }
+      },
+      {
+        "data": {
+          "group": "Gene",
+          "label": "Josd2",
+          "color": "#ff3232e5",
+          "size": 15,
+          "shape": "Ellipse",
+          "font_size": 10,
+          "font_color": "#000000ff",
+          "color_rgb": "#ff3232",
+          "color_alpha": 248.75545851528383,
+          "font_color_rgb": "#000000",
+          "font_color_alpha": 255,
+          "title": "Josd2",
+          "font": {
+            "size": 10.0,
+            "color": "#000000ff"
+          },
+          "x": 202.33845287586448,
+          "y": -40.761994402502005,
+          "fixed": {
+            "fixed.x": true,
+            "fixed.y": true
+          },
+          "id": "Josd2",
+          "name": "Josd2"
+        },
+        "position": {
+          "x": 161,
+          "y": -32
+        }
+      },
+      {
+        "data": {
+          "group": "Gene",
+          "label": "Tmem63a",
+          "color": "#6464ff32",
+          "size": 15,
+          "shape": "Ellipse",
+          "font_size": 10,
+          "font_color": "#000000ff",
+          "color_rgb": "#6464ff",
+          "color_alpha": 205.764192139738,
+          "font_color_rgb": "#000000",
+          "font_color_alpha": 255,
+          "title": "Tmem63a",
+          "font": {
+            "size": 10.0,
+            "color": "#000000ff"
+          },
+          "x": 222.22771488148373,
+          "y": 8.978079752696043,
+          "fixed": {
+            "fixed.x": true,
+            "fixed.y": true
+          },
+          "id": "Tmem63a",
+          "name": "Tmem63a"
+        },
+        "position": {
+          "x": 177,
+          "y": 7
+        }
+      },
+      {
+        "data": {
+          "group": "Gene",
+          "label": "Mtmr10",
+          "color": "#ff0808fb",
+          "size": 15,
+          "shape": "Ellipse",
+          "font_size": 10,
+          "font_color": "#000000ff",
+          "color_rgb": "#ff0808",
+          "color_alpha": 254.03930131004364,
+          "font_color_rgb": "#000000",
+          "font_color_alpha": 255,
+          "title": "Mtmr10",
+          "font": {
+            "size": 10.0,
+            "color": "#000000ff"
+          },
+          "x": 202.73944746615598,
+          "y": -14.860253957236344,
+          "fixed": {
+            "fixed.x": true,
+            "fixed.y": true
+          },
+          "id": "Mtmr10",
+          "name": "Mtmr10"
+        },
+        "position": {
+          "x": 162,
+          "y": -11
+        }
+      },
+      {
+        "data": {
+          "group": "Gene",
+          "label": "Erbin",
+          "color": "#ff2e2ee7",
+          "size": 15,
+          "shape": "Ellipse",
+          "font_size": 10,
+          "font_color": "#000000ff",
+          "color_rgb": "#ff2e2e",
+          "color_alpha": 249.235807860262,
+          "font_color_rgb": "#000000",
+          "font_color_alpha": 255,
+          "title": "Erbin",
+          "font": {
+            "size": 10.0,
+            "color": "#000000ff"
+          },
+          "x": -67.61954713253745,
+          "y": 162.2008403428457,
+          "fixed": {
+            "fixed.x": true,
+            "fixed.y": true
+          },
+          "id": "Erbin",
+          "name": "Erbin"
+        },
+        "position": {
+          "x": -54,
+          "y": 129
+        }
+      },
+      {
+        "data": {
+          "group": "Gene",
+          "label": "Nfe2l3",
+          "color": "#ffb8b8a2",
+          "size": 15,
+          "shape": "Ellipse",
+          "font_size": 10,
+          "font_color": "#000000ff",
+          "color_rgb": "#ffb8b8",
+          "color_alpha": 232.66375545851528,
+          "font_color_rgb": "#000000",
+          "font_color_alpha": 255,
+          "title": "Nfe2l3",
+          "font": {
+            "size": 10.0,
+            "color": "#000000ff"
+          },
+          "x": 217.94768537839195,
+          "y": 40.794785379983615,
+          "fixed": {
+            "fixed.x": true,
+            "fixed.y": true
+          },
+          "id": "Nfe2l3",
+          "name": "Nfe2l3"
+        },
+        "position": {
+          "x": 174,
+          "y": 32
+        }
+      },
+      {
+        "data": {
+          "group": "Gene",
+          "label": "Abtb2",
+          "color": "#a4a4ff53",
+          "size": 15,
+          "shape": "Ellipse",
+          "font_size": 10,
+          "font_color": "#000000ff",
+          "color_rgb": "#a4a4ff",
+          "color_alpha": 213.6899563318777,
+          "font_color_rgb": "#000000",
+          "font_color_alpha": 255,
+          "title": "Abtb2",
+          "font": {
+            "size": 10.0,
+            "color": "#000000ff"
+          },
+          "x": 216.40855883383782,
+          "y": 105.7670286469626,
+          "fixed": {
+            "fixed.x": true,
+            "fixed.y": true
+          },
+          "id": "Abtb2",
+          "name": "Abtb2"
+        },
+        "position": {
+          "x": 173,
+          "y": 84
+        }
+      },
+      {
+        "data": {
+          "group": "Gene",
+          "label": "Chd7",
+          "color": "#ffbabaa2",
+          "size": 15,
+          "shape": "Ellipse",
+          "font_size": 10,
+          "font_color": "#000000ff",
+          "color_rgb": "#ffbaba",
+          "color_alpha": 232.66375545851528,
+          "font_color_rgb": "#000000",
+          "font_color_alpha": 255,
+          "title": "Chd7",
+          "font": {
+            "size": 10.0,
+            "color": "#000000ff"
+          },
+          "x": 184.46306385621503,
+          "y": 164.19006567389994,
+          "fixed": {
+            "fixed.x": true,
+            "fixed.y": true
+          },
+          "id": "Chd7",
+          "name": "Chd7"
+        },
+        "position": {
+          "x": 147,
+          "y": 131
+        }
+      },
+      {
+        "data": {
+          "group": "Gene",
+          "label": "Atp1a2",
+          "color": "#ff2626ec",
+          "size": 15,
+          "shape": "Ellipse",
+          "font_size": 10,
+          "font_color": "#000000ff",
+          "color_rgb": "#ff2626",
+          "color_alpha": 250.43668122270742,
+          "font_color_rgb": "#000000",
+          "font_color_alpha": 255,
+          "title": "Atp1a2",
+          "font": {
+            "size": 10.0,
+            "color": "#000000ff"
+          },
+          "x": 157.2728666810567,
+          "y": 191.8429454636182,
+          "fixed": {
+            "fixed.x": true,
+            "fixed.y": true
+          },
+          "id": "Atp1a2",
+          "name": "Atp1a2"
+        },
+        "position": {
+          "x": 125,
+          "y": 153
+        }
+      },
+      {
+        "data": {
+          "group": "Gene",
+          "label": "Eps15",
+          "color": "#ff4242de",
+          "size": 15,
+          "shape": "Ellipse",
+          "font_size": 10,
+          "font_color": "#000000ff",
+          "color_rgb": "#ff4242",
+          "color_alpha": 247.07423580786025,
+          "font_color_rgb": "#000000",
+          "font_color_alpha": 255,
+          "title": "Eps15",
+          "font": {
+            "size": 10.0,
+            "color": "#000000ff"
+          },
+          "x": 224.34893103479575,
+          "y": 70.13530872251997,
+          "fixed": {
+            "fixed.x": true,
+            "fixed.y": true
+          },
+          "id": "Eps15",
+          "name": "Eps15"
+        },
+        "position": {
+          "x": 179,
+          "y": 56
+        }
+      },
+      {
+        "data": {
+          "group": "Gene",
+          "label": "Mpzl1",
+          "color": "#ff0e0ef8",
+          "size": 15,
+          "shape": "Ellipse",
+          "font_size": 10,
+          "font_color": "#000000ff",
+          "color_rgb": "#ff0e0e",
+          "color_alpha": 253.3187772925764,
+          "font_color_rgb": "#000000",
+          "font_color_alpha": 255,
+          "title": "Mpzl1",
+          "font": {
+            "size": 10.0,
+            "color": "#000000ff"
+          },
+          "x": 125.0686830393311,
+          "y": 204.71426935854637,
+          "fixed": {
+            "fixed.x": true,
+            "fixed.y": true
+          },
+          "id": "Mpzl1",
+          "name": "Mpzl1"
+        },
+        "position": {
+          "x": 100,
+          "y": 163
+        }
+      },
+      {
+        "data": {
+          "group": "Gene",
+          "label": "Gab1",
+          "color": "#8888ff44",
+          "size": 15,
+          "shape": "Ellipse",
+          "font_size": 10,
+          "font_color": "#000000ff",
+          "color_rgb": "#8888ff",
+          "color_alpha": 210.08733624454146,
+          "font_color_rgb": "#000000",
+          "font_color_alpha": 255,
+          "title": "Gab1",
+          "font": {
+            "size": 10.0,
+            "color": "#000000ff"
+          },
+          "x": -2.465894271731603,
+          "y": 230.5501221973046,
+          "fixed": {
+            "fixed.x": true,
+            "fixed.y": true
+          },
+          "id": "Gab1",
+          "name": "Gab1"
+        },
+        "position": {
+          "x": -1,
+          "y": 184
+        }
+      },
+      {
+        "data": {
+          "group": "Gene",
+          "label": "Ptgds",
+          "color": "#ff5858d3",
+          "size": 15,
+          "shape": "Ellipse",
+          "font_size": 10,
+          "font_color": "#000000ff",
+          "color_rgb": "#ff5858",
+          "color_alpha": 244.43231441048033,
+          "font_color_rgb": "#000000",
+          "font_color_alpha": 255,
+          "title": "Ptgds",
+          "font": {
+            "size": 10.0,
+            "color": "#000000ff"
+          },
+          "x": 60.58912606309376,
+          "y": 233.1587260409678,
+          "fixed": {
+            "fixed.x": true,
+            "fixed.y": true
+          },
+          "id": "Ptgds",
+          "name": "Ptgds"
+        },
+        "position": {
+          "x": 48,
+          "y": 186
+        }
+      },
+      {
+        "data": {
+          "group": "Gene",
+          "label": "Cnp",
+          "color": "#ff5454d4",
+          "size": 15,
+          "shape": "Ellipse",
+          "font_size": 10,
+          "font_color": "#000000ff",
+          "color_rgb": "#ff5454",
+          "color_alpha": 244.67248908296943,
+          "font_color_rgb": "#000000",
+          "font_color_alpha": 255,
+          "title": "Cnp",
+          "font": {
+            "size": 10.0,
+            "color": "#000000ff"
+          },
+          "x": 196.44892232703984,
+          "y": 132.33942127106636,
+          "fixed": {
+            "fixed.x": true,
+            "fixed.y": true
+          },
+          "id": "Cnp",
+          "name": "Cnp"
+        },
+        "position": {
+          "x": 157,
+          "y": 105
+        }
+      },
+      {
+        "data": {
+          "group": "Gene",
+          "label": "Megf10",
+          "color": "#7a7aff3e",
+          "size": 15,
+          "shape": "Ellipse",
+          "font_size": 10,
+          "font_color": "#000000ff",
+          "color_rgb": "#7a7aff",
+          "color_alpha": 208.64628820960698,
+          "font_color_rgb": "#000000",
+          "font_color_alpha": 255,
+          "title": "Megf10",
+          "font": {
+            "size": 10.0,
+            "color": "#000000ff"
+          },
+          "x": 97.41978043394205,
+          "y": 224.90493271452405,
+          "fixed": {
+            "fixed.x": true,
+            "fixed.y": true
+          },
+          "id": "Megf10",
+          "name": "Megf10"
+        },
+        "position": {
+          "x": 77,
+          "y": 179
+        }
+      },
+      {
+        "data": {
+          "group": "Gene",
+          "label": "Phldb1",
+          "color": "#ff7474c4",
+          "size": 15,
+          "shape": "Ellipse",
+          "font_size": 10,
+          "font_color": "#000000ff",
+          "color_rgb": "#ff7474",
+          "color_alpha": 240.8296943231441,
+          "font_color_rgb": "#000000",
+          "font_color_alpha": 255,
+          "title": "Phldb1",
+          "font": {
+            "size": 10.0,
+            "color": "#000000ff"
+          },
+          "x": 28.62673497817783,
+          "y": 226.22856418188871,
+          "fixed": {
+            "fixed.x": true,
+            "fixed.y": true
+          },
+          "id": "Phldb1",
+          "name": "Phldb1"
+        },
+        "position": {
+          "x": 22,
+          "y": 180
+        }
+      },
+      {
+        "data": {
+          "group": "Gene",
+          "label": "Dbndd2",
+          "color": "#ff1818f3",
+          "size": 15,
+          "shape": "Ellipse",
+          "font_size": 10,
+          "font_color": "#000000ff",
+          "color_rgb": "#ff1818",
+          "color_alpha": 252.11790393013098,
+          "font_color_rgb": "#000000",
+          "font_color_alpha": 255,
+          "title": "Dbndd2",
+          "font": {
+            "size": 10.0,
+            "color": "#000000ff"
+          },
+          "x": -32.95055810033952,
+          "y": 217.86329510529941,
+          "fixed": {
+            "fixed.x": true,
+            "fixed.y": true
+          },
+          "id": "Dbndd2",
+          "name": "Dbndd2"
+        },
+        "position": {
+          "x": -26,
+          "y": 174
+        }
+      }
+    ],
+    "edges": [
+      {
+        "data": {
+          "color": "#800080ff",
+          "width": 1,
+          "color_rgb": "#800080",
+          "color_alpha": 255.0,
+          "source": "Mef2a",
+          "target": "chr11:80177018-80177960"
+        }
+      },
+      {
+        "data": {
+          "color": "#800080ff",
+          "width": 1,
+          "color_rgb": "#800080",
+          "color_alpha": 255.0,
+          "source": "Mef2a",
+          "target": "chr1:165666876-165667912"
+        }
+      },
+      {
+        "data": {
+          "color": "#800080ff",
+          "width": 1,
+          "color_rgb": "#800080",
+          "color_alpha": 255.0,
+          "source": "Mef2a",
+          "target": "chr3:103129445-103131638"
+        }
+      },
+      {
+        "data": {
+          "color": "#800080ff",
+          "width": 1,
+          "color_rgb": "#800080",
+          "color_alpha": 255.0,
+          "source": "Mef2a",
+          "target": "chr2:148889524-148890793"
+        }
+      },
+      {
+        "data": {
+          "color": "#800080ff",
+          "width": 1,
+          "color_rgb": "#800080",
+          "color_alpha": 255.0,
+          "source": "Mef2a",
+          "target": "chr11:95838546-95839225"
+        }
+      },
+      {
+        "data": {
+          "color": "#800080ff",
+          "width": 1,
+          "color_rgb": "#800080",
+          "color_alpha": 255.0,
+          "source": "Mef2a",
+          "target": "chr3:105891606-105892799"
+        }
+      },
+      {
+        "data": {
+          "color": "#800080ff",
+          "width": 1,
+          "color_rgb": "#800080",
+          "color_alpha": 255.0,
+          "source": "Mef2a",
+          "target": "chr8:120696095-120698014"
+        }
+      },
+      {
+        "data": {
+          "color": "#800080ff",
+          "width": 1,
+          "color_rgb": "#800080",
+          "color_alpha": 255.0,
+          "source": "Mef2a",
+          "target": "chr11:61727509-61728482"
+        }
+      },
+      {
+        "data": {
+          "color": "#800080ff",
+          "width": 1,
+          "color_rgb": "#800080",
+          "color_alpha": 255.0,
+          "source": "Mef2a",
+          "target": "chr1:87626327-87626784"
+        }
+      },
+      {
+        "data": {
+          "color": "#800080ff",
+          "width": 1,
+          "color_rgb": "#800080",
+          "color_alpha": 255.0,
+          "source": "Mef2a",
+          "target": "chr18:61107596-61109079"
+        }
+      },
+      {
+        "data": {
+          "color": "#800080ff",
+          "width": 1,
+          "color_rgb": "#800080",
+          "color_alpha": 255.0,
+          "source": "Mef2a",
+          "target": "chr6:54272450-54273706"
+        }
+      },
+      {
+        "data": {
+          "color": "#800080ff",
+          "width": 1,
+          "color_rgb": "#800080",
+          "color_alpha": 255.0,
+          "source": "Mef2a",
+          "target": "chr5:63826541-63828038"
+        }
+      },
+      {
+        "data": {
+          "color": "#800080ff",
+          "width": 1,
+          "color_rgb": "#800080",
+          "color_alpha": 255.0,
+          "source": "Mef2a",
+          "target": "chr9:120037106-120038039"
+        }
+      },
+      {
+        "data": {
+          "color": "#800080ff",
+          "width": 1,
+          "color_rgb": "#800080",
+          "color_alpha": 255.0,
+          "source": "Mef2a",
+          "target": "chr8:92852829-92853881"
+        }
+      },
+      {
+        "data": {
+          "color": "#800080ff",
+          "width": 1,
+          "color_rgb": "#800080",
+          "color_alpha": 255.0,
+          "source": "Mef2a",
+          "target": "chr2:101664203-101666106"
+        }
+      },
+      {
+        "data": {
+          "color": "#800080ff",
+          "width": 1,
+          "color_rgb": "#800080",
+          "color_alpha": 255.0,
+          "source": "Mef2a",
+          "target": "chr10:70766275-70767710"
+        }
+      },
+      {
+        "data": {
+          "color": "#800080ff",
+          "width": 1,
+          "color_rgb": "#800080",
+          "color_alpha": 255.0,
+          "source": "Mef2a",
+          "target": "chr10:20175858-20176676"
+        }
+      },
+      {
+        "data": {
+          "color": "#800080ff",
+          "width": 1,
+          "color_rgb": "#800080",
+          "color_alpha": 255.0,
+          "source": "Mef2a",
+          "target": "chr1:106154649-106155944"
+        }
+      },
+      {
+        "data": {
+          "color": "#20928c4c",
+          "width": 1.1256732413753658,
+          "color_rgb": "#20928c",
+          "color_alpha": 212.00873362445415,
+          "source": "chr11:80177018-80177960",
+          "target": "Adap2"
+        }
+      },
+      {
+        "data": {
+          "color": "#21918c1c",
+          "width": 1.025170093445531,
+          "color_rgb": "#21918c",
+          "color_alpha": 200.48034934497815,
+          "source": "chr1:165666876-165667912",
+          "target": "Rcsd1"
+        }
+      },
+      {
+        "data": {
+          "color": "#20928c64",
+          "width": 1.1767724890774505,
+          "color_rgb": "#20928c",
+          "color_alpha": 217.77292576419214,
+          "source": "chr3:103129445-103131638",
+          "target": "Dennd2c"
+        }
+      },
+      {
+        "data": {
+          "color": "#ffa500ff",
+          "width": 1,
+          "color_rgb": "#ffa500",
+          "color_alpha": 255.0,
+          "source": "chr2:148889524-148890793",
+          "target": "Mef2c"
+        }
+      },
+      {
+        "data": {
+          "color": "#20928c30",
+          "width": 1.067996549115748,
+          "color_rgb": "#20928c",
+          "color_alpha": 205.2838427947598,
+          "source": "chr2:148889524-148890793",
+          "target": "Cst3"
+        }
+      },
+      {
+        "data": {
+          "color": "#21918c40",
+          "width": 1.1002255896986806,
+          "color_rgb": "#21918c",
+          "color_alpha": 209.12663755458516,
+          "source": "chr11:95838546-95839225",
+          "target": "Gngt2"
+        }
+      },
+      {
+        "data": {
+          "color": "#20928c4a",
+          "width": 1.1217539456615935,
+          "color_rgb": "#20928c",
+          "color_alpha": 211.52838427947597,
+          "source": "chr11:95838546-95839225",
+          "target": "Abi3"
+        }
+      },
+      {
+        "data": {
+          "color": "#21918c47",
+          "width": 1.1144501455006537,
+          "color_rgb": "#21918c",
+          "color_alpha": 210.80786026200872,
+          "source": "chr3:105891606-105892799",
+          "target": "Adora3"
+        }
+      },
+      {
+        "data": {
+          "color": "#21918c2b",
+          "width": 1.0570088751152482,
+          "color_rgb": "#21918c",
+          "color_alpha": 204.0829694323144,
+          "source": "chr3:105891606-105892799",
+          "target": "Tmigd3"
+        }
+      },
+      {
+        "data": {
+          "color": "#21918c1c",
+          "width": 1.025336595413294,
+          "color_rgb": "#21918c",
+          "color_alpha": 200.48034934497815,
+          "source": "chr3:105891606-105892799",
+          "target": "I830077J02Rik"
+        }
+      },
+      {
+        "data": {
+          "color": "#20928c54",
+          "width": 1.1420381018898837,
+          "color_rgb": "#20928c",
+          "color_alpha": 213.9301310043668,
+          "source": "chr8:120696095-120698014",
+          "target": "Irf8"
+        }
+      },
+      {
+        "data": {
+          "color": "#ffa500ff",
+          "width": 1,
+          "color_rgb": "#ffa500",
+          "color_alpha": 255.0,
+          "source": "chr11:61727509-61728482",
+          "target": "Mef2c"
+        }
+      },
+      {
+        "data": {
+          "color": "#21918c1a",
+          "width": 1.0,
+          "color_rgb": "#21918c",
+          "color_alpha": 200.0,
+          "source": "chr11:61727509-61728482",
+          "target": "Ulk2"
+        }
+      },
+      {
+        "data": {
+          "color": "#ffa500ff",
+          "width": 1,
+          "color_rgb": "#ffa500",
+          "color_alpha": 255.0,
+          "source": "chr1:87626327-87626784",
+          "target": "Mef2c"
+        }
+      },
+      {
+        "data": {
+          "color": "#20928c2b",
+          "width": 1.0570268702266006,
+          "color_rgb": "#20928c",
+          "color_alpha": 204.0829694323144,
+          "source": "chr1:87626327-87626784",
+          "target": "Inpp5d"
+        }
+      },
+      {
+        "data": {
+          "color": "#20928c55",
+          "width": 1.1438877360427775,
+          "color_rgb": "#20928c",
+          "color_alpha": 214.1703056768559,
+          "source": "chr18:61107596-61109079",
+          "target": "Csf1r"
+        }
+      },
+      {
+        "data": {
+          "color": "#21918c1a",
+          "width": 1.0165328937660842,
+          "color_rgb": "#21918c",
+          "color_alpha": 200.0,
+          "source": "chr6:54272450-54273706",
+          "target": "Chn2"
+        }
+      },
+      {
+        "data": {
+          "color": "#20928c5f",
+          "width": 1.1659282649763432,
+          "color_rgb": "#20928c",
+          "color_alpha": 216.5720524017467,
+          "source": "chr5:63826541-63828038",
+          "target": "0610040J01Rik"
+        }
+      },
+      {
+        "data": {
+          "color": "#21918c1b",
+          "width": 1.0234845575721652,
+          "color_rgb": "#21918c",
+          "color_alpha": 200.24017467248908,
+          "source": "chr9:120037106-120038039",
+          "target": "Cx3cr1"
+        }
+      },
+      {
+        "data": {
+          "color": "#20928c59",
+          "width": 1.1521275812389917,
+          "color_rgb": "#20928c",
+          "color_alpha": 215.13100436681222,
+          "source": "chr8:92852829-92853881",
+          "target": "Lpcat2"
+        }
+      },
+      {
+        "data": {
+          "color": "#ffa500ff",
+          "width": 1,
+          "color_rgb": "#ffa500",
+          "color_alpha": 255.0,
+          "source": "Mef2c",
+          "target": "chr1:190279618-190280696"
+        }
+      },
+      {
+        "data": {
+          "color": "#ffa500ff",
+          "width": 1,
+          "color_rgb": "#ffa500",
+          "color_alpha": 255.0,
+          "source": "Mef2c",
+          "target": "chr17:57086813-57087896"
+        }
+      },
+      {
+        "data": {
+          "color": "#ffa500ff",
+          "width": 1,
+          "color_rgb": "#ffa500",
+          "color_alpha": 255.0,
+          "source": "Mef2c",
+          "target": "chr2:31087723-31089963"
+        }
+      },
+      {
+        "data": {
+          "color": "#ffa500ff",
+          "width": 1,
+          "color_rgb": "#ffa500",
+          "color_alpha": 255.0,
+          "source": "Mef2c",
+          "target": "chr7:81307514-81308226"
+        }
+      },
+      {
+        "data": {
+          "color": "#ffa500ff",
+          "width": 1,
+          "color_rgb": "#ffa500",
+          "color_alpha": 255.0,
+          "source": "Mef2c",
+          "target": "chr7:44474100-44475578"
+        }
+      },
+      {
+        "data": {
+          "color": "#ffa500ff",
+          "width": 1,
+          "color_rgb": "#ffa500",
+          "color_alpha": 255.0,
+          "source": "Mef2c",
+          "target": "chr1:180945251-180945994"
+        }
+      },
+      {
+        "data": {
+          "color": "#ffa500ff",
+          "width": 1,
+          "color_rgb": "#ffa500",
+          "color_alpha": 255.0,
+          "source": "Mef2c",
+          "target": "chr7:64158550-64160176"
+        }
+      },
+      {
+        "data": {
+          "color": "#ffa500ff",
+          "width": 1,
+          "color_rgb": "#ffa500",
+          "color_alpha": 255.0,
+          "source": "Mef2c",
+          "target": "chr13:104039363-104040505"
+        }
+      },
+      {
+        "data": {
+          "color": "#ffa500ff",
+          "width": 1,
+          "color_rgb": "#ffa500",
+          "color_alpha": 255.0,
+          "source": "Mef2c",
+          "target": "chr1:106154649-106155944"
+        }
+      },
+      {
+        "data": {
+          "color": "#ffa500ff",
+          "width": 1,
+          "color_rgb": "#ffa500",
+          "color_alpha": 255.0,
+          "source": "Mef2c",
+          "target": "chr6:51432182-51433308"
+        }
+      },
+      {
+        "data": {
+          "color": "#ffa500ff",
+          "width": 1,
+          "color_rgb": "#ffa500",
+          "color_alpha": 255.0,
+          "source": "Mef2c",
+          "target": "chr2:103643372-103644752"
+        }
+      },
+      {
+        "data": {
+          "color": "#ffa500ff",
+          "width": 1,
+          "color_rgb": "#ffa500",
+          "color_alpha": 255.0,
+          "source": "Mef2c",
+          "target": "chr4:8910776-8912212"
+        }
+      },
+      {
+        "data": {
+          "color": "#ffa500ff",
+          "width": 1,
+          "color_rgb": "#ffa500",
+          "color_alpha": 255.0,
+          "source": "Mef2c",
+          "target": "chr1:172295639-172296537"
+        }
+      },
+      {
+        "data": {
+          "color": "#ffa500ff",
+          "width": 1,
+          "color_rgb": "#ffa500",
+          "color_alpha": 255.0,
+          "source": "Mef2c",
+          "target": "chr13:104031709-104032979"
+        }
+      },
+      {
+        "data": {
+          "color": "#ffa500ff",
+          "width": 1,
+          "color_rgb": "#ffa500",
+          "color_alpha": 255.0,
+          "source": "Mef2c",
+          "target": "chr4:109224445-109226359"
+        }
+      },
+      {
+        "data": {
+          "color": "#ffa500ff",
+          "width": 1,
+          "color_rgb": "#ffa500",
+          "color_alpha": 255.0,
+          "source": "Mef2c",
+          "target": "chr1:165609482-165611026"
+        }
+      },
+      {
+        "data": {
+          "color": "#ffa500ff",
+          "width": 1,
+          "color_rgb": "#ffa500",
+          "color_alpha": 255.0,
+          "source": "Mef2c",
+          "target": "chr8:80803709-80804548"
+        }
+      },
+      {
+        "data": {
+          "color": "#ffa500ff",
+          "width": 1,
+          "color_rgb": "#ffa500",
+          "color_alpha": 255.0,
+          "source": "Mef2c",
+          "target": "chr2:25469041-25470318"
+        }
+      },
+      {
+        "data": {
+          "color": "#ffa500ff",
+          "width": 1,
+          "color_rgb": "#ffa500",
+          "color_alpha": 255.0,
+          "source": "Mef2c",
+          "target": "chr11:100574615-100575976"
+        }
+      },
+      {
+        "data": {
+          "color": "#ffa500ff",
+          "width": 1,
+          "color_rgb": "#ffa500",
+          "color_alpha": 255.0,
+          "source": "Mef2c",
+          "target": "chr18:57260831-57263517"
+        }
+      },
+      {
+        "data": {
+          "color": "#ffa500ff",
+          "width": 1,
+          "color_rgb": "#ffa500",
+          "color_alpha": 255.0,
+          "source": "Mef2c",
+          "target": "chr2:101664203-101666106"
+        }
+      },
+      {
+        "data": {
+          "color": "#ffa500ff",
+          "width": 1,
+          "color_rgb": "#ffa500",
+          "color_alpha": 255.0,
+          "source": "Mef2c",
+          "target": "chr9:44733398-44735595"
+        }
+      },
+      {
+        "data": {
+          "color": "#ffa500ff",
+          "width": 1,
+          "color_rgb": "#ffa500",
+          "color_alpha": 255.0,
+          "source": "Mef2c",
+          "target": "chr2:164515493-164516526"
+        }
+      },
+      {
+        "data": {
+          "color": "#1f968b79",
+          "width": 1.2194695295987856,
+          "color_rgb": "#1f968b",
+          "color_alpha": 222.81659388646287,
+          "source": "chr2:101664203-101666106",
+          "target": "Prr5l"
+        }
+      },
+      {
+        "data": {
+          "color": "#21918c1a",
+          "width": 1.011249086393985,
+          "color_rgb": "#21918c",
+          "color_alpha": 200.0,
+          "source": "chr10:70766275-70767710",
+          "target": "Phyhipl"
+        }
+      },
+      {
+        "data": {
+          "color": "#1f978ba7",
+          "width": 1.3159227641063653,
+          "color_rgb": "#1f978b",
+          "color_alpha": 233.8646288209607,
+          "source": "chr10:20175858-20176676",
+          "target": "Map7"
+        }
+      },
+      {
+        "data": {
+          "color": "#1f968b7d",
+          "width": 1.2274576816838552,
+          "color_rgb": "#1f968b",
+          "color_alpha": 223.7772925764192,
+          "source": "chr1:106154649-106155944",
+          "target": "Phlpp1"
+        }
+      },
+      {
+        "data": {
+          "color": "#20928c35",
+          "width": 1.078006761534288,
+          "color_rgb": "#20928c",
+          "color_alpha": 206.48471615720524,
+          "source": "chr1:190279618-190280696",
+          "target": "Prox1"
+        }
+      },
+      {
+        "data": {
+          "color": "#20938c87",
+          "width": 1.24896813223659,
+          "color_rgb": "#20938c",
+          "color_alpha": 226.17903930131004,
+          "source": "chr17:57086813-57087896",
+          "target": "Tubb4a"
+        }
+      },
+      {
+        "data": {
+          "color": "#20928c35",
+          "width": 1.0776342541419444,
+          "color_rgb": "#20928c",
+          "color_alpha": 206.48471615720524,
+          "source": "chr2:31087723-31089963",
+          "target": "Fnbp1"
+        }
+      },
+      {
+        "data": {
+          "color": "#1f948c6e",
+          "width": 1.1976661903163304,
+          "color_rgb": "#1f948c",
+          "color_alpha": 220.17467248908295,
+          "source": "chr7:81307514-81308226",
+          "target": "Pde8a"
+        }
+      },
+      {
+        "data": {
+          "color": "#20928c81",
+          "width": 1.2361723018420163,
+          "color_rgb": "#20928c",
+          "color_alpha": 224.73799126637553,
+          "source": "chr7:44474100-44475578",
+          "target": "Josd2"
+        }
+      },
+      {
+        "data": {
+          "color": "#1f958b8f",
+          "width": 1.2648933511509515,
+          "color_rgb": "#1f958b",
+          "color_alpha": 228.1004366812227,
+          "source": "chr1:180945251-180945994",
+          "target": "Tmem63a"
+        }
+      },
+      {
+        "data": {
+          "color": "#21918c39",
+          "width": 1.0857734014044655,
+          "color_rgb": "#21918c",
+          "color_alpha": 207.44541484716157,
+          "source": "chr7:64158550-64160176",
+          "target": "Mtmr10"
+        }
+      },
+      {
+        "data": {
+          "color": "#20938c4f",
+          "width": 1.1315032535451286,
+          "color_rgb": "#20938c",
+          "color_alpha": 212.72925764192138,
+          "source": "chr13:104039363-104040505",
+          "target": "Erbin"
+        }
+      },
+      {
+        "data": {
+          "color": "#1f978bff",
+          "width": 1.5,
+          "color_rgb": "#1f978b",
+          "color_alpha": 255.0,
+          "source": "chr6:51432182-51433308",
+          "target": "Nfe2l3"
+        }
+      },
+      {
+        "data": {
+          "color": "#20928c29",
+          "width": 1.053138875487857,
+          "color_rgb": "#20928c",
+          "color_alpha": 203.60262008733625,
+          "source": "chr2:103643372-103644752",
+          "target": "Abtb2"
+        }
+      },
+      {
+        "data": {
+          "color": "#1f948c74",
+          "width": 1.2104416221986627,
+          "color_rgb": "#1f948c",
+          "color_alpha": 221.61572052401746,
+          "source": "chr4:8910776-8912212",
+          "target": "Chd7"
+        }
+      },
+      {
+        "data": {
+          "color": "#20938c54",
+          "width": 1.1429317655015792,
+          "color_rgb": "#20938c",
+          "color_alpha": 213.9301310043668,
+          "source": "chr1:172295639-172296537",
+          "target": "Atp1a2"
+        }
+      },
+      {
+        "data": {
+          "color": "#1f958b53",
+          "width": 1.140992901025604,
+          "color_rgb": "#1f958b",
+          "color_alpha": 213.6899563318777,
+          "source": "chr13:104031709-104032979",
+          "target": "Erbin"
+        }
+      },
+      {
+        "data": {
+          "color": "#21918c21",
+          "width": 1.0360367983030188,
+          "color_rgb": "#21918c",
+          "color_alpha": 201.6812227074236,
+          "source": "chr4:109224445-109226359",
+          "target": "Eps15"
+        }
+      },
+      {
+        "data": {
+          "color": "#20928c68",
+          "width": 1.1850722502700295,
+          "color_rgb": "#20928c",
+          "color_alpha": 218.73362445414847,
+          "source": "chr1:165609482-165611026",
+          "target": "Mpzl1"
+        }
+      },
+      {
+        "data": {
+          "color": "#1f958b5e",
+          "width": 1.163718586703546,
+          "color_rgb": "#1f958b",
+          "color_alpha": 216.33187772925763,
+          "source": "chr8:80803709-80804548",
+          "target": "Gab1"
+        }
+      },
+      {
+        "data": {
+          "color": "#20938c5b",
+          "width": 1.156142214325468,
+          "color_rgb": "#20938c",
+          "color_alpha": 215.6113537117904,
+          "source": "chr2:25469041-25470318",
+          "target": "Ptgds"
+        }
+      },
+      {
+        "data": {
+          "color": "#20928c36",
+          "width": 1.0804346029741647,
+          "color_rgb": "#20928c",
+          "color_alpha": 206.72489082969432,
+          "source": "chr11:100574615-100575976",
+          "target": "Cnp"
+        }
+      },
+      {
+        "data": {
+          "color": "#1f948c5f",
+          "width": 1.166106945284038,
+          "color_rgb": "#1f948c",
+          "color_alpha": 216.5720524017467,
+          "source": "chr18:57260831-57263517",
+          "target": "Megf10"
+        }
+      },
+      {
+        "data": {
+          "color": "#20928c51",
+          "width": 1.1365193174465802,
+          "color_rgb": "#20928c",
+          "color_alpha": 213.20960698689956,
+          "source": "chr9:44733398-44735595",
+          "target": "Phldb1"
+        }
+      },
+      {
+        "data": {
+          "color": "#20928c83",
+          "width": 1.2415213174313064,
+          "color_rgb": "#20928c",
+          "color_alpha": 225.2183406113537,
+          "source": "chr2:164515493-164516526",
+          "target": "Dbndd2"
+        }
+      }
+    ]
+  }
+}
